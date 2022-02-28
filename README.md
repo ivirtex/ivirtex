@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivirtex&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/ivirtex?template=classic&isocalendar=1&languages=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FWarsaw)
