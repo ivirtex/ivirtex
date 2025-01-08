@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,flutter,dart,rust,swift,cpp,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,rust,swift,zig,vscode,flutter,dart,docker)](https://skillicons.dev)
 
 ![Metrics](/github-metrics.svg)
